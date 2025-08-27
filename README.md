@@ -7,7 +7,7 @@
 ![Power BI Desktop Version](https://img.shields.io/badge/Power%20BI-Desktop%20Latest-%230096c0.svg)
 <!-- badges: end -->
 
-This repository houses the exercise materials for **Power BI Essential Training (2024)** by Gini von Courter, offering structured datasets and dashboards for practical learning.
+This repository houses the exercise materials for [**Power BI Essential Training (2024)**](https://www.linkedin.com/learning/power-bi-essential-training-2024/) by Gini von Courter, offering structured datasets and dashboards for practical learning.
 
 ---
 
